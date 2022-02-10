@@ -1,3 +1,0 @@
-
-Requirement:
-	Given a String in input, find the duplicates characters in the String.
