@@ -1,0 +1,12 @@
+Specs:
+
+Write a function that counts the number of each vowel in a string. The function should return an object with the vowels as name and the count as value. 
+
+An example output for the string 'I am alive' would look like: 
+
+const vowels = 
+{
+    	    a: 2,
+                e: 1,
+                i: 1,
+           }

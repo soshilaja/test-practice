@@ -1,0 +1,14 @@
+{
+  "name": "wombats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findWord.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "author": "Matt, Claudia, Stephen, Marvel, Ewan and Katherine",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
